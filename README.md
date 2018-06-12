@@ -1,2 +1,2 @@
 # git-experiment
-using this repo for practice GIT sima kundu
+using this repo for practice GIT sima kundu hareesh nalla
